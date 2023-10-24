@@ -2,8 +2,6 @@
  
 News Finance App is an iOS application that provides the latest news articles and real-time foreign exchange rates. Stay informed and track currency values effortlessly with this user-friendly app.
 
-![App Screenshots](./screenshots/screenshot1.png)
-
 ## Features
 
 - **Latest News:** Browse and read the latest news articles from various trusted sources.
@@ -66,3 +64,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Special thanks to [News API](https://newsapi.org/) for providing news articles data.
 
 - Thanks to [Currency Exchange API](https://exchangerate-api.com/) for providing currency exchange rate data.
+
+![App Screenshots](./NewsFinanceApp/screenshot1.png)
+![App Screenshots](./NewsFinanceApp/screenshot2.png)
+![App Screenshots](./NewsFinanceApp/screenshot3.png)
