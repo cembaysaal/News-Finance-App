@@ -65,6 +65,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Thanks to [Currency Exchange API](https://exchangerate-api.com/) for providing currency exchange rate data.
 
-![App Screenshots](./NewsFinanceApp/screenshot1.png)
-![App Screenshots](./NewsFinanceApp/screenshot2.png)
-![App Screenshots](./NewsFinanceApp/screenshot3.png)
+![App Screenshots](./NewsFinanceApp/screenshot1(1).png)
