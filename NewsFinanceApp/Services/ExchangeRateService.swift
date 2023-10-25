@@ -5,7 +5,7 @@ class ExchangeRateService {
     static let shared = ExchangeRateService()
 
     private let url = "https://v6.exchangerate-api.com/v6"
-    private let apiKey = "d6c8cdca62e54b433949e7fb"
+    private let apiKey = "YOURAPIKEY"
     private let currency = "USD"
     private var cachedExchangeRate: ExchangeRate?
 
