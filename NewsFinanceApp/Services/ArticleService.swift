@@ -6,7 +6,7 @@ class ArticleService {
 
     private let url = "https://newsapi.org/v2/top-headlines"
     private let country = "US"
-    private let apiKey = "e5033b0065e2427c843617d696beef16"
+    private let apiKey = "YOURAPIKEY"
     private var cachedArticles: [Article]?
 
     private var fullURL: String {
